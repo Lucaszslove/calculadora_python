@@ -19,4 +19,11 @@ A calculadora permite realizar operações matemáticas básicas diretamente no 
 
 - Python
 
-# Como executar
+## Como usar
+
+1. Baixe o projeto ou clone o repositório
+2. Abra o terminal na pasta do projeto
+3. Execute o arquivo:
+
+```bash
+calculadora.py
